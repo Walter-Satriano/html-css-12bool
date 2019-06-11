@@ -19,9 +19,6 @@ clear: both;
 /* REGOLE GENERALI COLONNA */
 [class*="col-"] {
 float: left;
-height: 200px;
-background: lightcoral;
-border: solid 1px black;
 }
 
 .col-1 {

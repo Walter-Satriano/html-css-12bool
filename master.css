@@ -1,0 +1,6 @@
+/* REGOLE PER debug */
+[class*="col-"] {
+height: 200px;
+background: lightcoral;
+border: solid 1px black;
+}
