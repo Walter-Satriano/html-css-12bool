@@ -4,3 +4,16 @@ height: 200px;
 background: lightcoral;
 border: solid 1px black;
 }
+
+/* COLONNE NESTATE (2COL + 2COL + 8COL e 6COL + 6COL) */
+.nesting-container {
+  padding: 5px;
+}
+
+.nesting-container .col-2,
+.nesting-container .col-8,
+.nesting-container .col-6 {
+  height: 190px;
+  background: red;
+  border: solid 1px white;
+}
