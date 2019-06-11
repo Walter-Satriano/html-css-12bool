@@ -19,7 +19,7 @@ clear: both;
 /* REGOLE GENERALI COLONNA */
 [class*="col-"] {
 float: left;
-height: 250px;
+height: 200px;
 background: lightcoral;
 border: solid 1px black;
 }
